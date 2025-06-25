@@ -4,10 +4,10 @@
 
 # ⚙️ **安装与运行**
 ## 1️⃣获取CLI Node-ID（后面执行脚本时需要输入此 ID）
-访问：https://app.nexus.xyz/nodes
+访问：https://app.nexus.xyz/nodes 获取，如下图：
 
 <div align="center">
-  <img src="GET_NODE_ID.png" alt="CLI NODE-ID" width="180" style="border-radius: 8px; margin-bottom: 10px;"/>
+  <img src="GET_NODE_ID.png" alt="CLI NODE-ID" width="500" style="border-radius: 8px; margin-bottom: 10px;"/>
 </div>
 
 ## 2️⃣克隆并进入项目目录
